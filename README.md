@@ -53,12 +53,19 @@ If your distribution is not on this list, the script may not work as expected. Y
 
 - **Red Hat**
 - **Cent OS**
-  <br><br>
+- **Ubuntu**
+- **Debian**
+  
+   <br> 
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
 [<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][cent_os]
+[<img align="left" alt="Ubuntu Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" />][ubuntu]
+[<img align="left" alt="Debian Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" />][debian]
 
 [red_hat]: https://www.redhat.com/
-[cent_os]: https://www.centos.org/ 
+[cent_os]: https://www.centos.org/
+[ubuntu]: https://ubuntu.com/
+[debian]: https://www.debian.org/
 <br><br>
 
 ## Usage
