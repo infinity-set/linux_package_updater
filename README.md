@@ -10,7 +10,7 @@ This Bash script automates package updates based on the detected Linux distribut
 
 ## About
 
-The Package Update Script is designed to simplify the process of updating packages on various Linux distributions, including CentOS, Red Hat, Debian, and Ubuntu. It detects the distribution type from the `/etc/os-release` file and performs the necessary updates using `yum` or `apt-get` package managers.
+The Package Update Script is designed to simplify the process of updating packages on various Linux distributions, including CentOS, Red Hat, Debian, and Ubuntu. It detects the distribution type from the ***/etc/os-release*** file and performs the necessary updates using ***yum*** or ***apt-get*** package managers.
 
 Please note that the script is limited to the following supported distributions:
 
@@ -22,7 +22,7 @@ Please note that the script is limited to the following supported distributions:
 If your distribution is not on this list, the script may not work as expected. You can extend support to additional distributions by modifying the conditional checks in the script.
 
 - The script will detect your Linux distribution and update packages accordingly.
-- Successful updates and any errors will be logged in `success_log` and `error_log` files, respectively.
+- Successful updates and any errors will be logged in ***success_log*** and ***error_log*** files, respectively.
 
 ## Customization
 
@@ -32,7 +32,7 @@ If your distribution is not on this list, the script may not work as expected. Y
 
 - **Supported Distributions**: Currently, the script supports CentOS, Red Hat, Debian, and Ubuntu. You can extend support to additional distributions by modifying the conditional checks.
 
-- **Logging**: Adjust the paths for `error_log` and `success_log` to store log files in your preferred locations.
+- **Logging**: Adjust the paths for ***error_log*** and ***success_log*** to store log files in your preferred locations.
 
 ## Usage
 
@@ -42,7 +42,7 @@ To use the installer script, follow these steps:
 
 2. Navigate to the project directory.
 
-3. Run the installer script (`install.sh`).
+3. Run the installer script (***linux_package_updater.sh***).
 
 4. Follow the on-screen prompts to configure your application.
 
