@@ -1,6 +1,6 @@
 # Package Update Script
 
-This Bash script automates package updates based on the detected Linux distribution.
+Welcome to the "Package Update Script." This Bash script automates package updates based on your Linux distribution, making your system management tasks easier.
 
 ## Table of Contents
 
