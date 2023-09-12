@@ -7,7 +7,10 @@ This Bash script automates package updates based on the detected Linux distribut
 - [About](#about)
 - [Customization](#customization)
 - [Prerequisites](#prerequisites)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
 - [Usage](#usage)
+
 
 ## About
 
