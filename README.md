@@ -84,3 +84,8 @@ To use the installer script, follow these steps:
 4. Follow the on-screen prompts to configure your application.
 
 5. Complete the installation as guided by the script.
+
+#
+<br>
+
+⬅️ **[Home](https://github.com/infinity-set)**
